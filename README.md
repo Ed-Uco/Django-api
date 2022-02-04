@@ -1,5 +1,37 @@
 # Django-MySQL-REST-API
 
-REST API creada con Python, el framework web Django y el SGBD MySQL, con el protocolo HTTP y los método GET, POST, PUT y DELETE.
+# Proyecto Backend - Catálogo de Compañías
+Proyecto backend desarrollado para la creación de registros con un CRUD completo utilizando archivos JSOn y base de datos con MySQL. 
+ 
+ 
 
 <br/>
+
+##  Modelos 
+
+Company:
+Que contiene los siguientes campos:     
+
+   * Name
+   * Website
+   * Foundation
+      
+   
+
+<br/>
+
+##  Tecnologías.
+
+* Python
+* MySQL
+* HTTP con GET, POST, PUT Y DELETE.
+
+
+
+<br/>
+
+
+
+
+Github:
+[Edgar Uco](https://github.com/Ed-Uco) 
