@@ -33,5 +33,8 @@ Que contiene los siguientes campos:
 
 
 
-Github:
-[Edgar Uco](https://github.com/Ed-Uco) 
+
+[Github](https://github.com/Ed-Uco) 
+
+
+[Linkedin](https://www.linkedin.com/in/edgaruco/) 
