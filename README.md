@@ -22,7 +22,7 @@ Que contiene los siguientes campos:
 
 ##  Tecnologías.
 
-* Python
+* Python-Django.
 * MySQL
 * HTTP con GET, POST, PUT Y DELETE.
 
