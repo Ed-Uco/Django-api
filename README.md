@@ -20,7 +20,7 @@ Que contiene los siguientes campos:
 
 <br/>
 
-##  Tecnologías.
+##  Tecnologías utilizadas.
 
 * Python-Django.
 * MySQL
