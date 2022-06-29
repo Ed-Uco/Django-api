@@ -3,9 +3,13 @@
 import os
 import sys
 import dotenv
+from os.path import join, dirname
+
+dotenv_path = os.path.join(os.path.dirname(__file__), '.env')
+
 
 def main():
-    dotenv.read_dotenv()
+    dotenv.read_dotenv(dotenv_path)
     print(os.environ.get('HELLO_WORLD'))
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Project_API.settings')
